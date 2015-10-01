@@ -2,15 +2,15 @@
 # Traducciones al español para el paquete uim.
 # Copyright (C) 2015 THE uim'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the uim package.
-# Angel Garcia Alvarez | Darkangeel_hd | DarkminecrafterHD <angeloso199847@gmail.com>, 2015.
+# Angel Garcia Alvarez | DarkminecrafterHD | Darkangeel_hd <angeloso199847@gmail.com>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: uim 1.9.0\n"
 "Report-Msgid-Bugs-To: uim-en@googlegroups.com\n"
-"POT-Creation-Date: 2015-10-01 01:45+0200\n"
-"PO-Revision-Date: 2015-10-01 01:45+0200\n"
-"Last-Translator: Angel Garcia Alvarez | Darkangeel_hd | DarkminecrafterHD <angeloso199847@gmail.com>\n"
+"POT-Creation-Date: 2015-10-01 00:21+0200\n"
+"PO-Revision-Date: 2015-10-01 00:22+0200\n"
+"Last-Translator: Angel Garcia Alvarez | DarkminecrafterHD | Darkangeel_hd <angeloso199847@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -22,13 +22,13 @@ msgstr ""
 #: ../gtk2/dict/word-list-win-gtk.c:357 ../gtk2/dict/word.c:133
 #: ../gtk2/dict/word.c:148
 msgid "Anthy private dictionary"
-msgstr ""
+msgstr "Diccionario privado de Anthy"
 
 #: ../gtk2/dict/canna.c:88 ../gtk2/dict/main-gtk.c:149
 #: ../gtk2/dict/word-list-win-gtk.c:361 ../gtk2/dict/word.c:135
 #: ../gtk2/dict/word.c:150
 msgid "Canna private dictionary"
-msgstr ""
+msgstr "Diccionario privado de Canna"
 
 #. construct dialog
 #: ../gtk2/dict/cclass-dialog.c:69 ../gtk2/dict/cclass-dialog.c:106
@@ -38,12 +38,12 @@ msgstr ""
 
 #: ../gtk2/dict/cclass-dialog.c:115
 msgid "Example"
-msgstr ""
+msgstr "Ejemplo"
 
 #: ../gtk2/dict/main-gtk.c:234
 #, c-format
 msgid "Error:%s\n"
-msgstr ""
+msgstr "Eroor:%s\n"
 
 #: ../gtk2/dict/word-list-view-gtk.c:138
 msgid "Show part of speech column"
@@ -54,31 +54,31 @@ msgstr ""
 #: ../gtk2/dict/word-list-view-gtk.c:164 ../gtk2/dict/word-list-view-gtk.c:171
 #: ../gtk2/dict/word-list-view-gtk.c:172
 msgid "to be written"
-msgstr ""
+msgstr "a ser escrito"
 
 #: ../gtk2/dict/word-list-view-gtk.c:147
 msgid "Show freq column"
-msgstr ""
+msgstr "Mostrar columna de frecuencia"
 
 #: ../gtk2/dict/word-list-view-gtk.c:155
 msgid "Show okuri column"
-msgstr ""
+msgstr "Mostrar columna de okuri"
 
 #: ../gtk2/dict/word-list-view-gtk.c:214
 msgid "Word Type"
-msgstr ""
+msgstr "Tipo de palabra"
 
 #: ../gtk2/dict/word-list-view-gtk.c:232
 msgid "Phonetic"
-msgstr ""
+msgstr "Fonetico"
 
 #: ../gtk2/dict/word-list-view-gtk.c:264
 msgid "Literal"
-msgstr ""
+msgstr "Literal"
 
 #: ../gtk2/dict/word-list-view-gtk.c:300
 msgid "Frequency"
-msgstr ""
+msgstr "Frecuencia"
 
 #: ../gtk2/dict/word-list-view-gtk.c:312
 msgid "Okuri"
@@ -86,63 +86,63 @@ msgstr ""
 
 #: ../gtk2/dict/word-list-win-gtk.c:103
 msgid "_Dictionary"
-msgstr ""
+msgstr "_Diccionario"
 
 #: ../gtk2/dict/word-list-win-gtk.c:104
 msgid "_Select"
-msgstr ""
+msgstr "_Selección"
 
 #: ../gtk2/dict/word-list-win-gtk.c:105
 msgid "_Edit"
-msgstr ""
+msgstr "_Edición"
 
 #: ../gtk2/dict/word-list-win-gtk.c:106
 msgid "_Option"
-msgstr ""
+msgstr "_Opción"
 
 #: ../gtk2/dict/word-list-win-gtk.c:107
 msgid "_Help"
-msgstr ""
+msgstr ""	# Ayuda
 
 #: ../gtk2/dict/word-list-win-gtk.c:108
 msgid "_Quit"
-msgstr ""
+msgstr ""	# Cerrar
 
 #: ../gtk2/dict/word-list-win-gtk.c:109
 msgid "Quit uim-dict"
-msgstr ""
+msgstr "Cerrar uim-dict"
 
 #: ../gtk2/dict/word-list-win-gtk.c:110
 msgid "A_dd..."
-msgstr ""
+msgstr "Aña_dir"
 
 #: ../gtk2/dict/word-list-win-gtk.c:111
 msgid "Add a new word"
-msgstr ""
+msgstr "Añadir nueva palabra"
 
 #: ../gtk2/dict/word-list-win-gtk.c:112
 msgid "_Remove..."
-msgstr ""
+msgstr "_Remover"	# posible cambio por borrar
 
 #: ../gtk2/dict/word-list-win-gtk.c:113
 msgid "Remove the selected word"
-msgstr ""
+msgstr "Borrar la palabra seleccionada"
 
 #: ../gtk2/dict/word-list-win-gtk.c:114
 msgid "_Edit..."
-msgstr ""
+msgstr "_Editar"
 
 #: ../gtk2/dict/word-list-win-gtk.c:115
 msgid "Edit the selected word"
-msgstr ""
+msgstr "Editar la palabra seleccionada"
 
 #: ../gtk2/dict/word-list-win-gtk.c:116
 msgid "_Popup Menu"
-msgstr ""
+msgstr "Menú des_plegable"
 
 #: ../gtk2/dict/word-list-win-gtk.c:117
 msgid "Show popup menu"
-msgstr ""
+msgstr "Mostrar el menú desplegable"
 
 #: ../gtk2/dict/word-list-win-gtk.c:118
 msgid "_About"

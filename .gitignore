@@ -620,3 +620,6 @@
 /xim/Makefile
 /xim/uim-xim
 /xim/*.o
+
+# nano backup files
+*~
