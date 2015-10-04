@@ -43,7 +43,7 @@ msgstr "Ejemplo"
 #: ../gtk2/dict/main-gtk.c:234
 #, c-format
 msgid "Error:%s\n"
-msgstr ""
+msgstr "Error:%s\n"
 
 #: ../gtk2/dict/word-list-view-gtk.c:138
 msgid "Show part of speech column"
@@ -8677,35 +8677,35 @@ msgstr ""
 
 #: ../scm/xmload.scm:54
 msgid "WuBi 86 input method (Chinese)"
-msgstr ""
+msgstr "Metodo de entrada WuBi 86 (Chino)"
 
 #: ../scm/yahoo-jp-custom.scm:35
 msgid "Yahoo-Jp"
-msgstr ""
+msgstr "Yahoo-Jp (Yahoo japon)"
 
 #: ../scm/yahoo-jp-custom.scm:43
 msgid "Yahoo-Jp server"
-msgstr ""
+msgstr "Servidor de Jahoo-Jp"
 
 #: ../scm/yahoo-jp-custom.scm:47
 msgid "Yahoo-Jp (advanced)"
-msgstr ""
+msgstr "Yahoo-Jp (avanzado)"
 
 #: ../scm/yahoo-jp-custom.scm:321
 msgid "Yahoo-Jp server address"
-msgstr ""
+msgstr "Dirección del servidor de Yahoo-Jp"
 
 #: ../scm/yahoo-jp-custom.scm:327
 msgid "Yahoo-Jp service path"
-msgstr ""
+msgstr "Ruta del servicio de Yahoo-Jp"
 
 #: ../scm/yahoo-jp-custom.scm:333
 msgid "Yahoo-Jp api key"
-msgstr ""
+msgstr "API key de Yahoo-Jp"
 
 #: ../scm/yahoo-jp-custom.scm:375
 msgid "Yahoo! Server"
-msgstr ""
+msgstr "Yahoo! Server"
 
 #: ../scm/yahoo-jp-key-custom.scm:35
 msgid "Yahoo-Jp key bindings 1"
@@ -8725,39 +8725,39 @@ msgstr ""
 
 #: ../scm/yahoo-jp-key-custom.scm:53
 msgid "[Yahoo-Jp] next segment"
-msgstr ""
+msgstr "[Yahoo-Jp] segmento siguiente"
 
 #: ../scm/yahoo-jp-key-custom.scm:59
 msgid "[Yahoo-Jp] previous segment"
-msgstr ""
+msgstr "[Yahoo-Jp] segmento anterior"
 
 #: ../scm/yahoo-jp-key-custom.scm:65
 msgid "[Yahoo-Jp] extend segment"
-msgstr ""
+msgstr "[Yahoo-Jp] sgmento extendido"
 
 #: ../scm/yahoo-jp-key-custom.scm:71
 msgid "[Yahoo-Jp] shrink segment"
-msgstr ""
+msgstr "[Yahoo-Jp] reducir segmento"
 
 #: ../scm/yahoo-jp-key-custom.scm:77
 msgid "[Yahoo-Jp] convert to hiragana"
-msgstr ""
+msgstr "[Yahoo-Jp] convertir a hiragana"
 
 #: ../scm/yahoo-jp-key-custom.scm:83
 msgid "[Yahoo-Jp] convert to katakana"
-msgstr ""
+msgstr "[Yahoo-Jp] convertir a katakana"
 
 #: ../scm/yahoo-jp-key-custom.scm:89
 msgid "[Yahoo-Jp] convert to halfwidth katakana"
-msgstr ""
+msgstr "[Yahoo-Jp] convertir a katakana de media anchura"
 
 #: ../scm/yahoo-jp-key-custom.scm:95
 msgid "[Yahoo-Jp] convert to halfwidth alphanumeric"
-msgstr ""
+msgstr "[Yahoo-Jp] convertir a alfanumérico de media anchura"
 
 #: ../scm/yahoo-jp-key-custom.scm:101
 msgid "[Yahoo-Jp] convert to fullwidth alphanumeric"
-msgstr ""
+msgstr "[Yahoo-Jp] convertir a alfanumérico de altura completa"
 
 #: ../scm/yahoo-jp-key-custom.scm:107
 msgid "[Yahoo-Jp] commit as transposed kana"
@@ -8765,15 +8765,15 @@ msgstr ""
 
 #: ../scm/yahoo-jp-key-custom.scm:116
 msgid "[Yahoo-Jp] on"
-msgstr ""
+msgstr "[Yahoo-Jp] on"
 
 #: ../scm/yahoo-jp-key-custom.scm:123
 msgid "[Yahoo-Jp] off"
-msgstr ""
+msgstr "[Yahoo-Jp] off"
 
 #: ../scm/yahoo-jp-key-custom.scm:129
 msgid "[Yahoo-Jp] begin conversion"
-msgstr ""
+msgstr "[Yahoo-Jp] empezando conversion"
 
 #: ../scm/yahoo-jp-key-custom.scm:135
 msgid "[Yahoo-Jp] commit"
@@ -8781,23 +8781,23 @@ msgstr ""
 
 #: ../scm/yahoo-jp-key-custom.scm:141
 msgid "[Yahoo-Jp] cancel"
-msgstr ""
+msgstr "[Yahoo-Jp] cancelar"
 
 #: ../scm/yahoo-jp-key-custom.scm:147
 msgid "[Yahoo-Jp] next candidate"
-msgstr ""
+msgstr "[Yahoo-Jp] candidato siguiente"
 
 #: ../scm/yahoo-jp-key-custom.scm:153
 msgid "[Yahoo-Jp] previous candidate"
-msgstr ""
+msgstr "[Yahoo-Jp] candidato anterior"
 
 #: ../scm/yahoo-jp-key-custom.scm:159
 msgid "[Yahoo-Jp] next page of candidate window"
-msgstr ""
+msgstr "[Yahoo-Jp] siguiente página de la ventana de candidatos"
 
 #: ../scm/yahoo-jp-key-custom.scm:165
 msgid "[Yahoo-Jp] previous page of candidate window"
-msgstr ""
+msgstr "[Yahoo-Jp] anterior página de la ventana de candidatos"
 
 #: ../scm/yahoo-jp-key-custom.scm:174
 msgid "[Yahoo-Jp] beginning of preedit"
@@ -8837,23 +8837,23 @@ msgstr ""
 
 #: ../scm/yahoo-jp-key-custom.scm:232
 msgid "[Yahoo-Jp] hiragana mode"
-msgstr ""
+msgstr "[Yahoo-Jp] modo hiragana"
 
 #: ../scm/yahoo-jp-key-custom.scm:238
 msgid "[Yahoo-Jp] katakana mode"
-msgstr ""
+msgstr "[Yahoo-Jp] modo katakana"
 
 #: ../scm/yahoo-jp-key-custom.scm:244
 msgid "[Yahoo-Jp] halfwidth katakana mode"
-msgstr ""
+msgstr "[Yahoo-Jp] modo katakana de media anchura"
 
 #: ../scm/yahoo-jp-key-custom.scm:250
 msgid "[Yahoo-Jp] halfwidth alphanumeric mode"
-msgstr ""
+msgstr "[Yahoo-Jp] modo alfanumérico de media altura"
 
 #: ../scm/yahoo-jp-key-custom.scm:256
 msgid "[Yahoo-Jp] fullwidth alphanumeric mode"
-msgstr ""
+msgstr "[Yahoo-Jp] modo alfanumérico de altura completa"
 
 #: ../scm/yahoo-jp-key-custom.scm:262
 msgid "[Yahoo-Jp] toggle hiragana/katakana mode"
@@ -8865,11 +8865,11 @@ msgstr ""
 
 #: ../scm/yahoo-jp-key-custom.scm:274
 msgid "[Yahoo-Jp] Next prediction candidate"
-msgstr ""
+msgstr "[Yahoo-Jp] Siguiente candidato de predicción"
 
 #: ../scm/yahoo-jp-key-custom.scm:280
 msgid "[Yahoo-Jp] Previous prediction candidate"
-msgstr ""
+msgstr "[Yahoo-Jp] Anterior candidato de predicción"
 
 #: ../scm/yahoo-jp.scm:109
 msgid ""
@@ -8879,23 +8879,23 @@ msgstr ""
 
 #: ../uim.desktop.in.in.h:1
 msgid "Input Method"
-msgstr ""
+msgstr "Metodo de Entrada"
 
 #: ../uim.desktop.in.in.h:2
 msgid "Customize uim input method environment"
-msgstr ""
+msgstr "Personalizar el entorno del metodo de entrada de uim"
 
 #: ../uim/m17nlib.c:482
 msgid "m17n library IM open error"
-msgstr ""
+msgstr "Error de apertura del metodo de entrada de la librería m17n"
 
 #: ../uim/m17nlib.c:521
 msgid "An input method provided by the m17n library"
-msgstr ""
+msgstr "Un metodo de entrada proporcinado por la librería m17n"
 
 #: ../uim/mana.c:103 ../uim/mana.c:176
 msgid "uim-mana: Command 'mana' not found."
-msgstr ""
+msgstr "uim-mana: Comando 'mana' no encontrado"	# may be improved
 
 #: ../uim/dynlib.c:149
 #, c-format
@@ -8905,7 +8905,7 @@ msgstr ""
 #: ../uim/dynlib.c:158
 #, c-format
 msgid "dynlib: %s: Initialization failed."
-msgstr ""
+msgstr "dynlib: %s: Fallo en inicialización"
 
 #: ../uim/openssl.c:282
 msgid "uim-openssl: DTLSv1_method() is not supported on this system"
@@ -8925,16 +8925,16 @@ msgstr ""
 
 #: ../uim/skk.c:1069
 msgid "uim-skk: too long word"
-msgstr ""
+msgstr "uim-skk: palabra muy larga"
 
 #: ../uim/skk.c:1967
 msgid "SKK server without completion capability\n"
-msgstr ""
+msgstr "Servidor SKK sin capacidad de completado\n"
 
 #: ../uim/skk.c:3830
 #, c-format
 msgid "uim-skk: connect to %s port %s failed"
-msgstr ""
+msgstr "uim-skk: conexión a %s puerto %s fallida"
 
 #: ../uim/uim.c:769
 msgid "builtin"
@@ -8947,7 +8947,7 @@ msgstr ""
 #: ../uim/uim-eb.c:100
 #, c-format
 msgid "eb: failed to initialize EB library : error = %s\n"
-msgstr ""
+msgstr "eb: fallo al inicializar la libreria EB : error = %s\n"
 
 #: ../uim/uim-eb.c:122
 msgid "eb: wrong bookpath"
@@ -8971,7 +8971,7 @@ msgstr ""
 
 #: ../uim/uim-error.c:58
 msgid "All functionality has been disabled to save user application data."
-msgstr ""
+msgstr "Toda funcinabilidad ha sido desactivada para guardar los datos de la aplicación del usuario."	# may need review
 
 #: ../uim/wnnlib.c:3744 ../uim/wnnlib.c:3758
 #, c-format
