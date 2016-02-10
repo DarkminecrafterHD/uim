@@ -33,10 +33,11 @@ SOURCES += @srcdir@/quimplatforminputcontext.cpp \
 !win32:!embedded:!mac {
     HEADERS += @srcdir@/../../qt4/immodule/quiminputcontext_compose.h
     SOURCES += @srcdir@/../../qt4/immodule/quiminputcontext_compose.cpp
+    QT += x11extras
 }
 
 OTHER_FILES += uim.json
 
 TARGET = uimplatforminputcontextplugin
-
+DESTDIR = 
 target.path += @DESTDIR@$$[QT_INSTALL_PLUGINS]/platforminputcontexts

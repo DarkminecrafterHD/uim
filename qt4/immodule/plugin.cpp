@@ -1,7 +1,7 @@
 /*
 
   Copyright (c) 2004-2005 Kazuki Ohta <mover@hct.zaq.ne.jp>
-  Copyright (c) 2005-2013 uim Project http://code.google.com/p/uim/
+  Copyright (c) 2005-2013 uim Project https://github.com/uim/uim
 
   All rights reserved.
 
@@ -37,12 +37,16 @@
 #include <clocale>
 
 #include <QtCore/QStringList>
-#ifdef Q_WS_X11
-# include <QtGui/QX11Info>
-#endif
 #if QT_VERSION < 0x050000
+# ifdef Q_WS_X11
+#  include <QtGui/QX11Info>
+# endif
 # include <QtGui/QInputContext>
 #else
+# if defined(Q_OS_UNIX) && !defined(Q_OS_MAC)
+#  include <QtX11Extras/QX11Info>
+# endif
+# include <QtCore/qdatastream.h>
 # include <qpa/qplatforminputcontext.h>
 #endif
 
